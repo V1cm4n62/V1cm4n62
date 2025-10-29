@@ -3,14 +3,14 @@
 📍 Based in Utah, originally from Mexico 🇲🇽  🏫 Studying at Ensign College
 
 👋 About Me
-Hey there! I'm Victor, a passionate and resilient developer-in-training with a strong foundation in software development and a hunger to build meaningful, scalable solutions. As an international student, I bring a global perspective, a deep sense of accountability, and a relentless work ethic to every project I take on.
+Hey there! I'm Victor, Software Engineer and Business Inovator
 - 💻 Currently focused on App Development, Front-End Design, and Full-Stack Engineering
 - 🧠 I love solving problems through mathematics, research-driven software, and simulation modeling
-- 🥋 Outside of tech, I’m a Muay Thai fighter and calisthenics enthusiast—training in Thailand is on my bucket list!
+- 🥋 Outside of tech, I’m a Muay Thai fighter and calisthenics enthusiast. Training in Thailand is on my bucket list
 
 🚀 Projects
 - 🎨 Personal Portfolio Website – Responsive, animated, and built with modular components
-- 🔐 User Validation System – Secure, scalable logic for authentication and input handling
+- 🔐 NextApt - Software that creates a digital network for student housing for the church LDS
 - 🧪 Simulation Tools – Experimental tools for research and mathematical modeling (in progress)
 
 🎯 Interests & Focus Areas
