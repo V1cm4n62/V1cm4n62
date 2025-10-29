@@ -1,21 +1,28 @@
-VICTOR FLORES
+👨‍💻 Victor Flores — @V1cm4n62
+🎓 International Software Engineering Student  💡 Aspiring Full-Stack Developer
+📍 Based in Utah, originally from Mexico 🇲🇽  🏫 Studying at Ensign College
 
-👋 Hi, I’m @V1cm4n62
-- International Studen looking to finish a STEM degree in the US.
-- I study Software Development at Ensign College
-- I love contact sports and calisthenics. I am a Muay Thai Figter and training in Thailand is in my bucket list
-- I'm currently focused in App Developing and Software
+👋 About Me
+Hey there! I'm Victor, a passionate and resilient developer-in-training with a strong foundation in software development and a hunger to build meaningful, scalable solutions. As an international student, I bring a global perspective, a deep sense of accountability, and a relentless work ethic to every project I take on.
+- 💻 Currently focused on App Development, Front-End Design, and Full-Stack Engineering
+- 🧠 I love solving problems through mathematics, research-driven software, and simulation modeling
+- 🥋 Outside of tech, I’m a Muay Thai fighter and calisthenics enthusiast—training in Thailand is on my bucket list!
 
-PROJECTS
--Personal Portfolio
--User validation
--
+🚀 Projects
+- 🎨 Personal Portfolio Website – Responsive, animated, and built with modular components
+- 🔐 User Validation System – Secure, scalable logic for authentication and input handling
+- 🧪 Simulation Tools – Experimental tools for research and mathematical modeling (in progress)
 
-INTEREST
--Front End design 
--Full-stack developer
--Mathematics and Research driven software
--Simulation and research simulation
+🎯 Interests & Focus Areas
+- 🌐 Front-End Design & UI/UX
+- 🧩 Full-Stack Development
+- 📊 Research-Driven Software & Algorithms
+- 🧠 Simulation, Modeling, and Applied Math
+
+📫 Let’s Connect
+I'm actively seeking internship opportunities where I can grow, contribute, and collaborate with mission-driven teams. Let’s build something impactful together!
+
+
 <!---
 V1cm4n62/V1cm4n62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
